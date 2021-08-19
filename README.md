@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me nextontext@yandex.ru
+- 🐍 Monty Python
 
 <!---
 iliazaraysky/iliazaraysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
