@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iliazaraysky
 - 👀 I’m interested in Programming languages
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me nextontext@yandex.ru
 - 🐍 Monty Python
 
