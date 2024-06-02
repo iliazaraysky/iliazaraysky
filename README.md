@@ -18,9 +18,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;  
 </div>
 
-### :fire: Моя статистика :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iliazaraysky&theme=neon-dark&background=000000&&locale=ru&mode=weekly)](https://git.io/streak-stats)
-
 <!---
 iliazaraysky/iliazaraysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
